@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Bluetooth/Bluetoothinit"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/cad4f6030a64a1572cf29f2255a24a5.png",
+        "selectedIconPath": "static/389d960e6693b994d24a35db07e6e68.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/Bluetooth/Bluetoothinit",
+        "iconPath": "static/2ab65e8ab394a802dafe7305bf5593a.png",
+        "selectedIconPath": "static/d7ca68bbb5c566a0f850e6cb6c8df40.png",
+        "text": "蓝牙"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

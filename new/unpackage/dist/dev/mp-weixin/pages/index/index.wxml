@@ -1,0 +1,1 @@
+<camera id="myCamera" device-position="front" flash="off" style="width:100%;height:300px" binderror="{{a}}" bindstop="{{b}}"/><button bindtap="{{c}}">开始获取视频帧</button><image wx:if="{{d}}" src="{{e}}" style="width:100%;height:auto"/>
